@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/alt1.JPG',
+        img : 'alt1.JPG',
         name : 'Only Time',
         artist : 'Enya',
-        music : 'music/01-ENYA - Only Time.mp3'
+        music : '01-ENYA - Only Time.mp3'
     },
     {
-        img : 'images/alt1.JPG',
+        img : 'alt1.JPG',
         name : 'Caribbean Blue',
         artist : 'Enya',
-        music : 'music/02-ENYA - Caribbean Blue.mp3'
+        music : '02-ENYA - Caribbean Blue.mp3'
     },
     {
-        img : 'images/alt1.JPG',
+        img : 'alt1.JPG',
         name : 'China Roses',
         artist : 'Enya',
-        music : 'music/03-ENYA - China Roses.mp3'
+        music : '03-ENYA - China Roses.mp3'
     },
     {
-        img : 'images/alt1.JPG',
+        img : 'alt1.JPG',
         name : 'Boadicea',
         artist : 'Enya',
-        music : 'music/04-ENYA - Boadicea.mp3'
+        music : '04-ENYA - Boadicea.mp3'
     }
 ];
 
